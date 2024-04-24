@@ -29,3 +29,5 @@
 
 ### In this project, we use a wearable sensor to read accelerometer data, and use API to populate gait metrics via Python. 
 
+![Plot of Gait Analysis Outcome](https://github.com/chenliseu/Gait-Analysis/blob/main/gait_plot.png)
+
